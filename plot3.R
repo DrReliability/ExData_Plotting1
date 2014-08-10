@@ -1,6 +1,6 @@
 # plot3.R
 # author: DrReliability
-# last update: 08/09/2014
+# last update: 08/10/2014
 # this script does the following:
 # 1. run the data_setup.R script to check if the dataset has been 
 #    downloaded and data read in.  If not, download from the given url, then

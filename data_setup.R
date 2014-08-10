@@ -1,6 +1,6 @@
 # data_setup.R
 # author: DrReliability
-# last update: 08/09/2014
+# last update: 08/10/2014
 # this script does the following:
 # 1. set working directory
 # 2. set download url, zip file and text file names
