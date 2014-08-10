@@ -35,6 +35,7 @@ source("data_setup.R")
 # =======================================================================
 # Plot3 - plot Energy sub metering vs time
 lname <- c(names(df1[7:9])) # legend names
+windows(width=5, height=5)
 #dev.new(width=7, height=7)
 par(mfrow=c(1,1))
 plot(df1[,2],df1[,7], type="l", col="black", xlab="", ylab="Energy sub metering")
